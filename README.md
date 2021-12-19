@@ -6,12 +6,15 @@
 Примеры работы программы:
 
 Для 5:
+
 ![image](https://user-images.githubusercontent.com/55971950/146682862-a12964e1-755e-452f-a1fa-2ce77523b8e5.png)
 
 Для 10:
+
 ![image](https://user-images.githubusercontent.com/55971950/146682891-dfb76f39-2be8-441c-9d09-5e8cea76b094.png)
 
 Для 30:
+
 ![image](https://user-images.githubusercontent.com/55971950/146682919-4b5803f4-4614-46fd-8fd4-425b19e1113f.png)
 
 ## В какой среде программирования мужно открыть данный проект?
