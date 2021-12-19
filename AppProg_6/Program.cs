@@ -6,12 +6,16 @@ namespace AppProg_6
     {
         static void Main(string[] args)
         {
-            var roulette = new Roulette();
+            var logger = new MyStupidLogger("log.txt");
+
+            var roulette = new Roulette(logger);
+
             while (!roulette.IsEmpty)
             {
                 Console.ReadKey();
                 roulette.PullOutKeg();
             }
+            logger.СallToFinishWork();
         }
     }
 }
