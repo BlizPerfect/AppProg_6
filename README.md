@@ -11,11 +11,11 @@
 
 Для 10:
 
-![image](https://user-images.githubusercontent.com/55971950/146682891-dfb76f39-2be8-441c-9d09-5e8cea76b094.png)
+![image](https://user-images.githubusercontent.com/55971950/146683118-cefd95fd-07c8-430e-9cfb-c5524127ce56.png)
 
 Для 30:
 
-![image](https://user-images.githubusercontent.com/55971950/146682919-4b5803f4-4614-46fd-8fd4-425b19e1113f.png)
+![image](https://user-images.githubusercontent.com/55971950/146683143-f268c280-ac3f-49b6-b08e-b6bc5194e61c.png)
 
 ## В какой среде программирования мужно открыть данный проект?
 Данную программу можно открыть в среде программирования Visual Studio.
